@@ -1,2 +1,2 @@
 # DNS-TTL-Configure
-Scripts used to configure TTL of records depending on domain and specific records from CSV file
+Script used to configure record TTL depending on domain and specific records from CSV file
