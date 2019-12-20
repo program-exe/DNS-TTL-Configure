@@ -11,11 +11,9 @@
   Author:         <Joshua Dooling>
   Creation Date:  <04/11/2019>
   Purpose/Change: Automate TTL change in order for DNS to update record IP quicker
-  
 .EXAMPLE
     PS C:\> ChangeTTL.ps1
 #>
-
 Clear-Host
 
 #Region Import CSV
